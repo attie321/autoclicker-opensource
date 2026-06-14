@@ -1,0 +1,76 @@
+╔══════════════════════════════════════════════════════╗
+║          AutoClicker Pro - Full Edition              ║
+║   Talen: NL / EN / DE / FR / ES / TR                ║
+╚══════════════════════════════════════════════════════╝
+
+INSTALLATIE (één keer):
+───────────────────────
+1. Pak de ZIP uit naar een vaste map (bijv. C:\AutoClicker Pro\)
+2. Dubbelklik op INSTALL.bat
+3. Volg de stappen op het scherm
+   → Als Python nog niet aanwezig is, opent het automatisch
+     de downloadpagina (vink "Add Python to PATH" aan!)
+4. Klaar — snelkoppeling staat op je bureaublad
+
+DAGELIJKS STARTEN:
+──────────────────
+• Bureaublad snelkoppeling "AutoClicker Pro"
+• Of dubbelklik op Start_Silent.vbs  (geen zwart venster)
+• Of dubbelklik op AutoClicker_Pro.bat
+
+TAAL KIEZEN:
+────────────
+Bovenaan de app staat een taalkeuze-menu:
+  Nederlands / English / Deutsch / Français / Español / Türkçe
+Na het wisselen van taal: app herstarten
+
+HOTKEYS (standaard, aanpasbaar in app):
+────────────────────────────────────────
+  F6  → AutoClicker start / stop
+  F7  → Macro opname start / stop
+  F8  → Macro afspelen start / stop
+  ESC → ALLES direct stoppen (panic-toets)
+
+FUNCTIES:
+─────────
+AutoClicker:
+  • Interval: uren / min / sec / ms
+  • Random variatie % (anti-detectie)
+  • Links / Rechts / Midden klik
+  • Enkel / Dubbel / Triple klik
+  • Vaste of huidige muispositie
+  • "Selecteer op scherm" positiepicker
+  • Klikteller + CPS weergave
+  • Profiel opslaan / laden / verwijderen
+  • Geplande start na X seconden
+  • Pixelkleur-conditie: start als pixel RGB overeenkomt
+
+Macro Recorder (zoals TinyTask):
+  • Opname: muisklikken, bewegingen, scroll, toetsenbord
+  • Macro-bibliotheek: meerdere macro's
+  • Afspelen: snelheid, herhalingen, oneindig
+  • Import / Export als .json
+
+Macro Playlist:
+  • Meerdere macro's achter elkaar afspelen
+  • Eigen volgorde, snelheid en herhalingen
+
+Extra:
+  • Donker / Licht / Midnight / Donker / Licht thema
+  • Altijd op voorgrond
+  • Geluid bij klik
+  • Live muispositie in titelbalk
+  • Windows-opstart optie
+  • Volledige backup export / import
+  • Log opslaan als .txt
+  • Scrollbaar venster
+  • Instelbare hotkeys (F1-F12)
+
+BESTANDEN:
+──────────
+  AutoClicker_Pro.py  → Hoofd-applicatie
+  INSTALL.bat         → Installatie + snelkoppeling
+  Start_Silent.vbs    → Start zonder zwart venster
+  macros/             → Opgeslagen macro's (.json)
+  settings.json       → App-instellingen (automatisch)
+  profiles.json       → AutoClicker profielen (automatisch)
